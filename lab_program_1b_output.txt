@@ -1,0 +1,11 @@
+Chess Board
+Black White Black White Black White Black White 
+White Black White Black White Black White Black 
+Black White Black White Black White Black White 
+White Black White Black White Black White Black 
+Black White Black White Black White Black White 
+White Black White Black White Black White Black 
+Black White Black White Black White Black White 
+White Black White Black White Black White Black 
+
+Process finished with exit code 0
