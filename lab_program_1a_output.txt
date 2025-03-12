@@ -1,0 +1,13 @@
+-----------------  GYM MEMBERSHIP MANAGEMENT ------------------
+Enter name: Dave
+Enter age: 22
+Enter membership status (Active/Inactive): Active
+Enter membership duration (in months): 13
+
+----------------  MEMBERSHIP DETAILS ----------------
+Name: Dave
+Age: 22
+Membership status: Active
+Membership duration: 13 months
+Membership fee: 19500.0
+Process finished with exit code 0
