@@ -1,0 +1,14 @@
+C:\Users\Admin\.jdks\openjdk-24\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=56622" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\1BM23AI078_LAB2_JAVA\out\production\1BM23AI078_LAB2_JAVA Records
+23
+student marks is: 23
+45
+student marks is: 45
+43
+student marks is: 43
+32
+student marks is: 32
+56
+student marks is: 56
+Maximum marks of the students entered: 56
+
+Process finished with exit code 0

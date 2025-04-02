@@ -1,0 +1,5 @@
+C:\Users\Admin\.jdks\openjdk-24\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=56585" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\1BM23AI078_LAB2_JAVA\out\production\1BM23AI078_LAB2_JAVA Enumeration
+Is Monday a workday? true
+Is Saturday a workday? false
+
+Process finished with exit code 0
