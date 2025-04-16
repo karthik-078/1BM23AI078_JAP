@@ -21,7 +21,7 @@ class Product {
 }
 
 // Manager class to handle product operations
-public class OnlineShoppingManager {
+public class jap {
     Vector<Product> inventory = new Vector<>();
 
     // Add a product
@@ -56,8 +56,8 @@ public class OnlineShoppingManager {
     }
 
     // Main method to run everything automatically
-    public static void jap(String[] args) {
-        OnlineShoppingManager manager = new OnlineShoppingManager();
+    public static void main(String[] args) {
+        jap manager = new jap();
 
         // Add products
         manager.addProduct("Phone", 699.99, "Electronics");
