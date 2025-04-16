@@ -1,0 +1,19 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=49684" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\jab\out\production\jab jap
+Item added: Paracetamol
+Item added: Bandage
+Item added: Antibiotic Cream
+
+--- Pharmacy Inventory ---
+ID: MED001, Name: Paracetamol, Quantity: 100, Price: $1.5
+ID: MED002, Name: Bandage, Quantity: 50, Price: $0.75
+ID: MED003, Name: Antibiotic Cream, Quantity: 30, Price: $5.25
+Item updated: Bandage
+Removed item: Antibiotic Cream
+Item found:
+ID: MED001, Name: Paracetamol, Quantity: 100, Price: $1.5
+
+--- Pharmacy Inventory ---
+ID: MED001, Name: Paracetamol, Quantity: 100, Price: $1.5
+ID: MED002, Name: Bandage, Quantity: 60, Price: $0.8
+
+Process finished with exit code 0
