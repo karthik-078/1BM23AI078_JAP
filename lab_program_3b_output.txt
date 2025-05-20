@@ -1,0 +1,8 @@
+Capacity of StringBuffer object sb1: 16
+Capacity of StringBuffer object sb2: 21
+Enter a string: hello
+Reversed string in uppercase: OLLEH
+Enter a string to append: world
+String after appending: ollehworld
+
+=== Code Execution Successful ===
