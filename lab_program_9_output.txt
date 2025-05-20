@@ -1,0 +1,13 @@
+Pushed: 10
+Pushed: 20
+Pushed: 30
+Stack Overflow!
+FixedStack: 10 20 30
+Popped: 30
+Pushed: 100
+Pushed: 200
+Pushed: 300
+DynamicStack: [100, 200, 300]
+Popped: 300
+
+=== Code Execution Successful ===
