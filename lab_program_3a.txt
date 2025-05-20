@@ -40,16 +40,3 @@ System.out.println("Concatenated string: " + concatenated);
 
 
 
-OUTPUT:
-
-String comparison:
-Are the strings equal? false
-
-String copy:
-Original string: Copy me!
-Copied string: Copy me!
-
-String concatenation:
-Concatenated string: Hello, world!
-
-=== Code Execution Successful ===
