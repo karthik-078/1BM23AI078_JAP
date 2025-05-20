@@ -1,0 +1,6 @@
+From class B:
+Protected Var: 20
+Public Var: 40
+
+From class C:
+Public Var: 40
